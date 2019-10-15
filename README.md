@@ -1,6 +1,6 @@
 ## 《深度学习》花书读书笔记及代码
 
-[第二章 线性代数]
+[第二章 线性代数]（./第二章 线性代数.md）
 
 You can use the [editor on GitHub](https://github.com/CVerRobin/DeepLearning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
